@@ -13,7 +13,7 @@ Este script en Python permite consultar un conjunto de direcciones IP en la base
 - Imprime información relevante, como el número de detecciones, estado de seguridad, motores de detección afectados y detalles del análisis.
 
 ************Requisitos************
-- Python 3.12 a
+- Python 3.12
 
 - Módulos de Python: requests, json, time
 
